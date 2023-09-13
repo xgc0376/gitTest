@@ -10,5 +10,6 @@ public class gitDemo {
         System.out.println("hot_fix 版本");
         System.out.println("001");
         System.out.println("002");
+        System.out.println("003");
     }
 }
